@@ -7,22 +7,13 @@ Me chamo Joshua Guirado trabalho como Consultor Júnior porém sou estudante de 
 ### 🤖 Linguagens e Tecnologias
 
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+   <img 
     align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
-/>
-<img 
-   align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-
-  <br/>
-<br/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 
 
 ### 📊 Estatísticas
